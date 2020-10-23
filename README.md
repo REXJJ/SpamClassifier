@@ -1,3 +1,3 @@
-# SpamClassifier
+# Spam Classifier
 
-This is a spam classifier made using AdaBoost.
+Spam classifier using AdaBoost.
